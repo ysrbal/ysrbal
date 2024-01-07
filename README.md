@@ -69,14 +69,6 @@
 
 <img src="https://raw.githubusercontent.com/ysrbal/ysrbal/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ysrbal/count.svg?"  />
-</div>
-
-###
-
 
 ## Recent Blog Posts  
   
