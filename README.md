@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Basarsoft Information Technologies](https://www.basarsoft.com.tr/en/)  
   
 
-- 🌱 I’m currently learning HTML,CSS and JavaScript  
+- 🌱 I’m currently learning Java  
   
 
 <br/>  
