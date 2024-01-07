@@ -67,8 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ysrbal/ysrbal/output/snake.svg" alt="Snake animation" />
-
 
 ## Recent Blog Posts  
   
