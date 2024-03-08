@@ -16,15 +16,15 @@
   </a>
 </div>
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yasarbal&label=Profile%20views&color=0e75b6&style=flat" alt="yasarbal" /> </p>
+
 
 ###
 
 <h1 align="center">Hi there 👋</h1>
 
 ###
-
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yasarbal&label=Profile%20views&color=0e75b6&style=flat" alt="yasarbal" /> </p>
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
